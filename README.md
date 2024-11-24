@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://muhammadsajedulislam.com/wp-content/uploads/2024/11/demo.jpeg"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
   <img width="12" />
