@@ -39,12 +39,23 @@
   <a href="https://www.facebook.com/muhammad.sajedul.islam.bd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="+8801756964475" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-  <a href="muhammadsajedulislambn@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+<!-- WhatsApp Link -->
+<a href="https://wa.me/8801756964475" target="_blank">
+  <img
+    src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge"
+    height="35"
+    alt="whatsapp logo"
+  />
+</a>
+
+<!-- Gmail Link -->
+<a href="mailto:muhammadsajedulislambn@gmail.com" target="_blank">
+  <img
+    src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
+    height="35"
+    alt="gmail logo"
+  />
+</a>
 </div>
 
 ###
