@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/17f8ce83-3a8b-4073-9361-270291d4e7e5" alt="Mobile App Developer Banner"/>
 </p>
 
-<h2 align="center">I am Sajed, and I'm a Mobile App Developer.</h2>
+<h2 align="center">A Mobile App Developer</h2>
 
 
 ###
